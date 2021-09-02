@@ -1,3 +1,7 @@
 # CrowdCounting
 
-Crowd Counting pis a very interesting problem. It can be harnessed in a lot of situations. 
+Crowd Counting is a very interesting problem. 
+
+Can we find out what are the peak hours where people flow into the bus interchange?
+
+![diff-overlay](diff-overlay.jpg)
