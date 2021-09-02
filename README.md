@@ -14,4 +14,4 @@ In the four levels of analytics:
 - Predictive
 - Prescriptive
 
-This will be classifified as Predictive Analytics. We are predicting the object identity whether a person was found using trained model of pictures of many people.
+This will be classified as Predictive Analytics. We are predicting the object identity whether a person was found using trained model of pictures of many people.
